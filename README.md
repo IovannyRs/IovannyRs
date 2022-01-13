@@ -1,7 +1,7 @@
 ### Hola 👋, Mi nombre es Iovanny Santa.
-<h3>Actualmente, Aprendiendo</h3>
+Actualmente, Aprendiendo.
 
-Habilidades:  HTML / JS  / CSS
+<h4>Habilidades:</h4><h2>HTML, CSS, JS</h2>
 
 Aprendiendo HTML, CSS, JS 
 
@@ -13,4 +13,4 @@ Aprendiendo HTML, CSS, JS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IovannyRs)  
 
-![Profile views](https://gpvc.arturio.dev/IovannyRs)  
+
