@@ -1,9 +1,7 @@
 ### Hola 👋, Mi nombre es Iovanny Santa.
-Actualmente, Aprendiendo.
+- Actualmente, aprendiendo.
 
-<h4>Habilidades:</h4><h2>HTML, CSS, JS</h2>
-
-Aprendiendo HTML, CSS, JS 
+Habilidades: HTML, CSS, JS
 
 
 
