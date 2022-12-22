@@ -1,12 +1,4 @@
-
-
-- Actualmente, _aprendiendo_.
-
-______________________________________________________________________________________
-
-* HTML
-* CSS
-* JavaScript
+Actualmente, aprendiendo programación básica.
 
 
 
