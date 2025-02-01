@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Iovanny Ramírez Santa</h1>
+<h1 align="center">👋 ¡Hola! Soy Iovanny Ramirez Santa</h1>
 
 <p align="center">
   🚀 Aprendiendo Desarrollo Web | 🔐 Explorando Ciberseguridad  
@@ -6,15 +6,10 @@
 
 ---
 
-## 🌟 Tecnologías en Aprendizaje  
+## 🌟 Objetivos principales actualmente
 - 🖥️ **Desarrollo Web:** HTML, CSS, JavaScript  
-- 🔐 **Ciberseguridad:** Conceptos básicos, análisis de vulnerabilidades  
-
-🔹 **🎯 Próximos objetivos:**  
-- Aprender **React.js** para mejorar mis habilidades en frontend.  
-- Explorar **pentesting y seguridad web**.  
-- Contribuir a proyectos open source.  
-
+- 🔐 **Ciberseguridad:** Conceptos básicos
+- 
 ---
 
 ## 🚀 Proyectos Destacados  
